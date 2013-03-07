@@ -2,7 +2,7 @@ Oh! my IT Ops Guy (The Song)
 ============================
 
 
-I am Abhishek Parolkar and in order to give tribute to Wes Borg's comedy work I thought of revising his work for new generation of people called IT Ops or DevOps :)
+I am Abhishek Parolkar and to give tribute to Wes Borg's comedy work I thought of revising his work for new generation of people called IT Ops or DevOps :)
  
  
 Here's my lyrics:
@@ -40,6 +40,10 @@ Say, You are awesome, Oh my IT Ops Guy :)
 </pre>
 
 --------------------------------------------------------------------
+
+Video:
+<iframe src="http://player.vimeo.com/video/61243649" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/61243649">Oh! My IT Ops Guy [The Official Song]</a>.</p>
+
 
 
 Contribute:
